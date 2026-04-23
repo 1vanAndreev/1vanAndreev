@@ -13,6 +13,7 @@
 - Bash / Python для автоматизации
 - Git и CI/CD
 - Docker и контейнеризация
+- K8s
 - Ansible и Infrastructure as Code
 - Логи, метрики, мониторинг и troubleshooting
 - DevOps / Platform / Infrastructure направления
@@ -23,7 +24,7 @@
 - развитие практики в Linux, автоматизации и сопровождении инфраструктуры
 
 ## Технологии
-`Linux` `Bash` `Python` `Git` `Ansible` `Docker` `Docker Compose` `CI/CD` `SQL` `Prometheus` `Grafana` `RabbitMQ`
+`Linux` `Bash` `Python` `Git` `Ansible` `Docker` `Docker Compose` `CI/CD` `SQL` `Prometheus` `Grafana`
 
 ## Сейчас ищу
 Стажировку или стартовую позицию в направлении **DevOps / Infrastructure / CI/CD**, где смогу расти в современной инженерной среде и применять практику Linux, автоматизации и сопровождения систем.
