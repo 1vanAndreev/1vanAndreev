@@ -20,7 +20,7 @@
 
 ## Практика и проекты
 - учебные и pet-проекты по Docker, Python и Ansible
-- микросервисный проект **BlogFlow** с Docker Compose, RabbitMQ, SQL Server, Prometheus, Grafana и GitHub Actions
+- микросервисный проект **BlogFlow** с Docker Compose, SQL Server, Prometheus, Grafana и GitHub Actions
 - развитие практики в Linux, автоматизации и сопровождении инфраструктуры
 
 ## Технологии
